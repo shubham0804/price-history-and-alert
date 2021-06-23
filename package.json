@@ -1,0 +1,35 @@
+{
+    "name": "is-price-right",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test-1": "node playground/test-1.js",
+        "session1": "node whatsapp/sessions/session1.js",
+        "webhook": "node whatsapp/webhook/app.js",
+        "cron-job": "node whatsapp/cron-job/app.js"
+    },
+    "author": "shubham bawa",
+    "license": "ISC",
+    "devDependencies": {
+        "chalk": "^4.1.1"
+    },
+    "dependencies": {
+        "@open-wa/wa-automate": "^4.1.0",
+        "axios": "^0.21.1",
+        "countries-and-timezones": "^2.4.0",
+        "currency.js": "^2.0.4",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "get-urls": "^10.0.0",
+        "libphonenumber-js": "^1.9.19",
+        "localtunnel": "^2.0.1",
+        "mongoose": "^5.12.12",
+        "node-cron": "^3.0.0",
+        "puppeteer": "^9.1.1",
+        "randomstring": "^1.2.1",
+        "sharetunnel": "^2.0.1",
+        "svg2img": "^0.9.2",
+        "tldts": "^5.7.38"
+    }
+}
