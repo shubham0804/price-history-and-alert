@@ -3,6 +3,7 @@
 A chatbot that integrates with messaging apps such as Whatsapp to get the price history of a product and let the user know if the price of the product drops in the future _(under development)_
 
 # Demo
+[**Click Here to watch demo video**](https://youtu.be/OyLokYAU6pk)
 
 **Step-1.** Install Whatsapp thorugh [Play Store](https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_IN&gl=US)/[App Store](https://apps.apple.com/in/app/whatsapp-messenger/id310633997) or login on [Whatsapp Web](https://web.whatsapp.com/)/[Whatsapp Desktop](https://www.whatsapp.com/download).<br>
 **Step-2.** [Click Here](https://wa.me/message/UV723AOEQM55A1) or scan qr code below to start the chat & click on the Send button.<br>
